@@ -17,3 +17,5 @@ Our ICO starts on **7<sup>th</sup> Dec 2017** and ends on **3<sup>rd</sup> Feb 2
 ## Contact
 
 Website: <http://atompay.org>
+
+Email: <support@atompay.org>
