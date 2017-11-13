@@ -4,7 +4,7 @@ AtomPay Crowdsale Smart contracts are based on a modified [OpenZeppelin Framewor
  
 ## Code Audit &amp; Bug fixes
 
-Submit your bugs or finding under the [Issues](https://github.com/AtomPay/AtomPay-ICO-Contracts/issues) tab
+Submit your bugs or findings under the [Issues](https://github.com/AtomPay/AtomPay-ICO-Contracts/issues) tab
 
 If you have a fix for the bug, please send us a [pull request](https://github.com/AtomPay/AtomPay-ICO-Contracts/pulls) under the issue you created, this helps us track the bugs &amp; fixes submitted by you.
 
